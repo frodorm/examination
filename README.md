@@ -1,2 +1,3 @@
 # examination
- simple game doodle jump with SFML
+ системные требования
+Windows 7 x64
